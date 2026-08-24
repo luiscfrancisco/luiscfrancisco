@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Meu Stack</h1>
+<h1 align="center">🧑🏿‍💻 Meu Stack</h1>
 <p align="center">
   Tecnologias e ferramentas que utilizo no desenvolvimento de software
 </p>
@@ -37,17 +37,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
       <sub><b>React</b></sub>
     </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/>
       <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/><br/>
-      <sub><b>SQL</b></sub>
     </td>
   </tr>
 </table>
