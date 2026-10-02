@@ -1,4 +1,4 @@
-<h1 align="center">🧑🏿‍💻 Meu Stack</h1>
+<h1 align="center">🧑🏿‍💻 Minha Stack</h1>
 <p align="center">
   Tecnologias e ferramentas que utilizo no desenvolvimento de software
 </p>
